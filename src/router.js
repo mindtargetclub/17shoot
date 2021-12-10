@@ -46,6 +46,12 @@ const router =  new Router({
       ]
     },
     {
+      path: "/getReDta",
+      name: "getReDta",
+      component: () =>
+        import("./views/getReDta.vue")
+    }, 
+    {
       path: "/wordList",
       name: "wordList",
       component: () =>

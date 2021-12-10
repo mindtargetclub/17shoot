@@ -10,6 +10,10 @@
             <li class="nav-item active">
               <router-link to="/" class="nav-link">首頁</router-link>
             </li>
+            <li class="nav-item active">
+              <router-link to="/getReDta" class="nav-link">訂單資訊</router-link>
+            </li>
+            
             <!-- <li class="nav-item">
               <router-link to="/wordList" class="nav-link">尖石.泰雅族語</router-link>
             </li>

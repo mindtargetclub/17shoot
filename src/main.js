@@ -19,6 +19,7 @@ Vue.config.productionTip = false;
 
 
 // 阿順新增系列 
+import axios from 'axios'
 // import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
 // // Make BootstrapVue available throughout your project
 // import 'bootstrap/dist/css/bootstrap.css'
@@ -49,6 +50,7 @@ let app = '';
 fb.auth().onAuthStateChanged(function(user) {
   if(!app){
     new Vue({
+      axios,
       router, 
       render: h => h(App)
     }).$mount("#app");
