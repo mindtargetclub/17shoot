@@ -30,14 +30,13 @@ import 'firebase/storage'
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyBfGRf3rz_p6R21JDLYjpYjXjwKrLaHb8c",
-  authDomain: "nm-tayal.firebaseapp.com",
-  databaseURL: "https://nm-tayal-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "nm-tayal",
-  storageBucket: "nm-tayal.appspot.com",
-  messagingSenderId: "816237299811",
-  appId: "1:816237299811:web:507e570a2200ce90dd1056",
-  measurementId: "G-FD3QSMYTP3"
+  apiKey: "AIzaSyA-sh6CUx3d3MHHfqugmTOzTdhbMIoXCCg",
+  authDomain: "h2fnotebkup2-97fd4.firebaseapp.com",
+  databaseURL: "https://h2fnotebkup2-97fd4-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "h2fnotebkup2-97fd4",
+  storageBucket: "h2fnotebkup2-97fd4.appspot.com",
+  messagingSenderId: "961384345618",
+  appId: "1:961384345618:web:b771027b304fc3087868cb"
   };
 
   // Initialize Firebase

@@ -25,7 +25,7 @@
             <div class="col-sm-12 col-md-8 mt-3">
                 <div class="graphic">
                     <img src="https://i.imgur.com/yIBeOC1.png" 
-                         alt="" width="80">
+                         alt="" width="800">
                 </div>
             </div>
           </div>
